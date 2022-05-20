@@ -19,3 +19,6 @@ def printTree(tree, prefix = '', bend = '', answer = ''):
         printTree(left, prefix, '+-', "Yes: ")
         printTree(right, prefix, '`-', "No:  ")
 
+
+        # version2
+
