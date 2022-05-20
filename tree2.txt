@@ -1,0 +1,14 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+wheels?
+Leaf
+a car
+Internal node
+weight more than 1T?
+Leaf
+an elephant
+Leaf
+dog
+Leaf
+a mouse

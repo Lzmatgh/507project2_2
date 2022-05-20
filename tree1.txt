@@ -1,0 +1,14 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+wheels?
+Internal node
+num of wheels is 2?
+Leaf
+a bike
+Leaf
+a car
+Leaf
+an elephant
+Leaf
+a mouse

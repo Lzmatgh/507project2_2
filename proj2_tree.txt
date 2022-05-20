@@ -1,0 +1,22 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+Does it has wheels?
+Internal node
+Is the number of its wheels 2?
+Leaf
+a bike
+Leaf
+a car
+Internal node
+Does it weight more than 1T?
+Leaf
+an elephant
+Leaf
+a dog
+Internal node
+Is its color yellow?
+Leaf
+a tennis
+Leaf
+a mouse
